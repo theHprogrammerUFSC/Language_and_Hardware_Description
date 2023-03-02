@@ -14,7 +14,8 @@ _This discipline was carried out with a Windows 10 operating system. The Quarts 
 
 ## Works
 
--   []()
+-   [Trabalho Final - BIP](https://github.com/theHprogrammerUFSC/Language_and_Hardware_Description/tree/main/TF)
+-   [Cronômetro](https://github.com/theHprogrammerUFSC/Language_and_Hardware_Description/tree/main/Class_09/CRONOMETRO)
 
 <br>
 
